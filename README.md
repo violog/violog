@@ -1,4 +1,4 @@
-Golang developer in Distributed Lab
+Golang developer
 
 <!---
 violog/violog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
